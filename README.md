@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 ![Eren's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhzx3519&count_private=true&show_icons=true&theme=solarized-light)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhzx3519&layout=compact)](https://github.com/rhzx3519/github-readme-stats)
+
+
+#### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
