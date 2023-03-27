@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhzx3519&layout=compact)](https://github.com/rhzx3519/github-readme-stats)
 
 
-#### Latest Blog Posts
+#### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Writing a Kubernetes Controller](https://rhzx3519.github.io//devops/2023/03/21/writing-kubernetes-controller.html)
