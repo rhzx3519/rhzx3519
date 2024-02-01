@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Backbone Architecture of A typical Web Application](https://rhzx3519.github.io//architecture/2024/02/01/Web-Application-Architecture.html)
 - [【Hard】1157. Online Majority Element In Subarray](https://rhzx3519.github.io//algorithm/2023/04/16/leetcode-1157.html)
 - [Writing a Kubernetes Controller](https://rhzx3519.github.io//devops/2023/03/21/writing-kubernetes-controller.html)
 - [Cue Overviews for Beginners](https://rhzx3519.github.io//devops/2023/03/02/cuelang-overviews.html)
 - [Orchestrate resource startup using init-containers in Kubernetes](https://rhzx3519.github.io//devops/2022/12/06/wait-in-kubernetes.html)
-- [gRPC get starting](https://rhzx3519.github.io//devops/2022/11/29/grpc-get-starting.html)
 <!-- BLOG-POST-LIST:END -->
