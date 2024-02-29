@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Go Concurrency Tips](https://rhzx3519.github.io//go/2024/02/29/Go-Concurrency.html)
 - [When does a Goroutine terminate?](https://rhzx3519.github.io//go/2024/02/16/Redirect-Goroutine-Understanding.html)
 - [Redirect Custom Variables in Nginx](https://rhzx3519.github.io//network/2024/02/16/Redirect-Custom-Variables-in-Nginx.html)
 - [Support Websocket in Nginx](https://rhzx3519.github.io//network/2024/02/15/Support-Websocket-in-Nginx.html)
 - [Nginx Configuration for Microservices](https://rhzx3519.github.io//architecture/2024/02/14/Nginx-Configuration-for-Microservices.html)
-- [A Backbone Architecture of A typical Web Application](https://rhzx3519.github.io//architecture/2024/02/01/Web-Application-Architecture.html)
 <!-- BLOG-POST-LIST:END -->
