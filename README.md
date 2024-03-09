@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Init Mongo in Docker](https://rhzx3519.github.io//database/2024/03/09/Init-Mongo-in-Docker.html)
 - [Back-of-Envelope Estimation](https://rhzx3519.github.io//system/design/2024/03/08/Back-of-Envelope-Estimation.html)
 - [Go Concurrency Tips](https://rhzx3519.github.io//go/2024/02/29/Go-Concurrency.html)
 - [When does a Goroutine terminate?](https://rhzx3519.github.io//go/2024/02/16/Redirect-Goroutine-Understanding.html)
 - [Redirect Custom Variables in Nginx](https://rhzx3519.github.io//network/2024/02/16/Redirect-Custom-Variables-in-Nginx.html)
-- [Support Websocket in Nginx](https://rhzx3519.github.io//network/2024/02/15/Support-Websocket-in-Nginx.html)
 <!-- BLOG-POST-LIST:END -->
