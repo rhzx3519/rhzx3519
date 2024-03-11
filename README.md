@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 #### 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Access Mysql in a Serializable Way](https://rhzx3519.github.io//go/2024/03/11/Access-Mysql-in-a-Serializable-Way.html)
 - [Init Mongo in Docker](https://rhzx3519.github.io//database/2024/03/09/Init-Mongo-in-Docker.html)
 - [Back-of-Envelope Estimation](https://rhzx3519.github.io//system/design/2024/03/08/Back-of-Envelope-Estimation.html)
 - [Go Concurrency Tips](https://rhzx3519.github.io//go/2024/02/29/Go-Concurrency.html)
 - [When does a Goroutine terminate?](https://rhzx3519.github.io//go/2024/02/16/Redirect-Goroutine-Understanding.html)
-- [Redirect Custom Variables in Nginx](https://rhzx3519.github.io//network/2024/02/16/Redirect-Custom-Variables-in-Nginx.html)
 <!-- BLOG-POST-LIST:END -->
